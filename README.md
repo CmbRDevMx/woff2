@@ -2,6 +2,8 @@
 Script para termux, configurar binarios personalizados PATH exclusivo 
 ### Guía Rápida: Configurar .woff2 en Termux
 
+![instalar de forma brusca woff2 termux](gif/woff2.gif)
+
 1. Instalar curl (si no lo tienes, aunque actualmente esto viene en termux por defecto en versiones recientes):
    ```
    pkg install curl -y
